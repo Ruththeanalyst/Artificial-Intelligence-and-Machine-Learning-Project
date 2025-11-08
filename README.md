@@ -1,18 +1,18 @@
-# Artificial Intelligence and Machine Learning Labs
+# 🤖 Artificial Intelligence and Machine Learning Labs
 Course project at Uppsala University
 
-## Overview
+## 📘 Overview
 This repository contains my work for 19 labs from the Artificial Intelligence and Machine Learning course, completed as part of my MSc in Information Systems at Uppsala University.  
 The labs cover topics such as AI fundamentals, machine learning, deep learning, reinforcement learning, and generative AI.
 
-## Tools and Technologies
-**Programming Language:** Python  
-**Libraries:** scikit-learn, pandas, numpy, matplotlib, seaborn, TensorFlow, Keras  
-**Development Environment:** Jupyter Notebook, VS Code,Google Colabs  
-**Version Control:** Git/GitHub  
-**Data Visualization:** Matplotlib, Seaborn  
+## 🛠 Tools and Technologies
+- **Programming Language:** Python  
+- **Libraries:** scikit-learn, pandas, numpy, matplotlib, seaborn, TensorFlow, Keras  
+- **Development Environment:** Jupyter Notebook, VS Code, Google Colab  
+- **Version Control:** Git/GitHub  
+- **Data Visualization:** Matplotlib, Seaborn  
 
-## Lab Contents
+## 📁 Lab Contents
 | Lab | Topic | Your Work Files |
 |-----|-------|----------------|
 | Lab 1 | Exploring AI | `Lab-1-Exploring-AI.ipynb` |
@@ -35,12 +35,12 @@ The labs cover topics such as AI fundamentals, machine learning, deep learning, 
 | Lab 18 | Generative AI | `Lab-18-Gen-AI.ipynb` |
 | Lab 19 | Deep Learning Image Challenge | `Lab-19-Deep-learning-image-challenge.ipynb` |
 
-## Key Learnings
+## 📝 Key Learnings
 - Implemented foundational AI algorithms and multi-agent systems  
 - Applied machine learning techniques: regression, classification, clustering  
 - Built and evaluated deep learning and CNN models  
 - Explored transfer learning, reinforcement learning, and generative AI  
 - Gained experience with Python, APIs, data visualization, and model evaluation  
 
-## Personal Reflection
+## ✨ Personal Reflection
 These labs provided hands-on experience with AI and ML concepts, strengthened my coding and data analysis skills, and helped me understand practical applications of AI in real-world scenarios.
